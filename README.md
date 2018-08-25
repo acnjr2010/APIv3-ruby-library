@@ -19,7 +19,7 @@ For more information, please visit [https://account.sendinblue.com/support](http
 
 Add this line to your application's Gemfile:
 ```shell
-gem 'sib-api-v3-sdk'
+gem 'sib-api-v3-sdk', git: 'https://github.com/acnjr2010/APIv3-ruby-library'
 ```
 
 And then execute:
